@@ -82,3 +82,4 @@
 ## 🤗 Enjoy SteamHub!
 SteamHub is a project built for fun, learning, and experimenting with modern full-stack development. Feel free to explore, test features, and maybe even contribute ideas!
 
+---
